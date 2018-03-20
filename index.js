@@ -15,12 +15,12 @@ function divide(a, b) {
 }
 
 function inc(n) {
-  a = n + 1
+  var a = n + 1
   return a
 }
 
 function dec(n) {
-  b = n - 1
+  var b = n - 1
   return b
 }
 
