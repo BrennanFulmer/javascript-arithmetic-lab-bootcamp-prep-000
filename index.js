@@ -15,7 +15,7 @@ function divide(a, b) {
 }
 
 function inc(n) {
-  var plus = n++
+  a+= = n++
   return plus
 }
 
