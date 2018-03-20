@@ -26,6 +26,6 @@ function makeInt(n) {
   
 }
 
-function () {
+function preserveDecimal(n) {
   
 }
