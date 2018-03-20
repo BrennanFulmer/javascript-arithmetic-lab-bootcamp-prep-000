@@ -19,7 +19,6 @@ function inc(n) {
 }
 
 function dec(n) {
-  var b = n - 1
   return --n
 }
 
