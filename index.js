@@ -20,8 +20,8 @@ function inc(n) {
 }
 
 function dec(n) {
-  var minus = n--
-  return minus
+  b = n - 1
+  return b
 }
 
 /* function () {
